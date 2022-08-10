@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Felipe, I'm from Campinas,  one of the most technological hubs from Brazil. I've worked on big, medium companies and startups as a consultant.</p>
+<p align="left">My name is Felipe, I'm from Campinas,  one of the most technological hubs from Brazil. I've worked on big, medium companies and startups as a consultant and internal on Ab-Inbev and Suzano S/A.</p>
 
 ###
 
