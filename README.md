@@ -67,9 +67,10 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
 
-###
+  <h2 align="left"> Social Media</h2>
+
+### 
 <div>
   <a href="https://www.linkedin.com/in/felipe-toledo-230287172/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
