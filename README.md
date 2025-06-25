@@ -11,11 +11,11 @@
 ###
 
 <p align="left">
-      👨‍💻 Long life learner
-  <br>📊 Data driven culture
-  <br>✨ Creating bugs since 2018
-  <br>📚 Learning stuff about containerization with kubernetes and docker
-  <br>🎯 Become Senior Data Engineer and eventually, principal DE.
+      👨‍💻 Long life learner.
+  <br>📊 Data driven.
+  <br>✨ Creating bugs since 2018.
+  <br>📚 Learning stuff about containerization with kubernetes, docker, dbt and airflow at the moment.
+  <br>🎯 Earn money, travel a lot and become Principal Data Engineer (currently Senior).
 </p>
 
 ###
